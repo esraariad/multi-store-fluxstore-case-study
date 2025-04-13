@@ -31,6 +31,23 @@ This project involved building a series of customized <strong>e-commerce mobile 
 </ul>
 
 <h2>📸 Screenshots:</h2>
+![Image](https://github.com/user-attachments/assets/864b2705-aa56-4a03-9ada-6d5a4340b80d)
+![Image](https://github.com/user-attachments/assets/b9e6dc88-6cf6-41fd-ab78-f4a935c1ac79)
+![Image](https://github.com/user-attachments/assets/ae200dc4-a6d5-4df0-b8f1-5a9338fba55c)
+![Image](https://github.com/user-attachments/assets/c7dee07d-c2d8-47fa-8dce-9ad0c563a0f7)
+![Image](https://github.com/user-attachments/assets/95eec095-6c44-4d42-b83b-c125f8054122)
+![Image](https://github.com/user-attachments/assets/78302655-cb6d-4a1a-bd11-6a1a4bd6b321)
+![Image](https://github.com/user-attachments/assets/07f7f855-adba-49c4-af4c-799e50937907)
+![Image](https://github.com/user-attachments/assets/cb7b291c-8ed8-4458-8d82-d21db0c7e2c3)
+![Image](https://github.com/user-attachments/assets/ec9f66c8-f110-418d-9c58-8a54254a048b)
+![Image](https://github.com/user-attachments/assets/2ee557cd-dc6f-4e87-bfbc-23f4a5d0b6f0)
+![Image](https://github.com/user-attachments/assets/ab8d55ef-b0b0-4efe-8a02-56a78924093e)
+![Image](https://github.com/user-attachments/assets/b25f263a-d61f-44a8-a060-1ef3080f161f)
+![Image](https://github.com/user-attachments/assets/870b0c6f-12b3-4f50-ba9b-5c46207f5682)
+![Image](https://github.com/user-attachments/assets/deaf8681-d2ae-4b9f-834c-6ee9d558f7ad)
+![Image](https://github.com/user-attachments/assets/5849144c-6d74-40db-9e4c-0037be5cb4f6)
+![Image](https://github.com/user-attachments/assets/b93866f6-7a91-4cc2-8356-c5ae822989c6)
+![Image](https://github.com/user-attachments/assets/f9562070-2f82-4b54-9a1b-f4695802e553)
 
 <h2>📈 Outcome:</h2>
 <ul>
