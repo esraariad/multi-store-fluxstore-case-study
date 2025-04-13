@@ -66,5 +66,7 @@ View All Published Apps on App Store
 <h2>💼 Let's Connect:</h2>
 <ul>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/esraa-riad-1b9592b4/">esraa-riad</a></li>
-  <li><strong>Email:</strong> esraariad.dev@gmail.com</li>
+  <li><strong>Email:</strong> engesraariad@gmail.com</li>
+    <li><strong>Phone:</strong> +201016363566-+201144320304</li>
+
 </ul>
